@@ -12,7 +12,7 @@ import autonoma.SimuladorDeAuto.Exception.VelocidadExcedidaException;
 
 /**
  *
- * @author valej
+ * @author Alejandra
  */
 /**
  * La clase Simulador representa un sistema que controla un vehículo,

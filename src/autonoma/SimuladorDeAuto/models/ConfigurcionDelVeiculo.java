@@ -6,7 +6,7 @@ package autonoma.SimuladorDeAuto.models;
 
 /**
  *
- * @author valej
+ * @author Alejandra
  */
 public class ConfigurcionDelVeiculo {
 
